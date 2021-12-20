@@ -1,6 +1,8 @@
 # DefVar Moveo 
 This project is forked from [BCN3d MOVEO](https://github.com/BCN3D/BCN3D-Moveo). I changed some parts for my purpases so that I can rebuilt this project six years after its creation. 
 
+Please check out my [blog](https://def-var.net) where I post weekly about this project
+
 # Orginal Moveo README.md
 In the following there is the orginal text from the BCN3D MOVEO README.md
 
