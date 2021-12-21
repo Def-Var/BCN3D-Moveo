@@ -6,6 +6,11 @@ Please check out my [blog](https://def-var.net) where I post weekly about this p
 
 Changed in Motortype results in new 3M2C and 3M2CC use the new Version instead
 
+## 3D printing settings 
+layerheigt: 0.2 mm
+Material: PLA 
+Infill: 15% 
+
 # Orginal Moveo README.md
 In the following there is the orginal text from the BCN3D MOVEO README.md
 
