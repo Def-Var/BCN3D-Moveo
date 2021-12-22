@@ -43,4 +43,4 @@
 
 [^1]: Format: dd:hh:mm
 [^0]: Unit: kg
-[^3]: Unit Euro and assuming that 1kg Material costs €30
+[^2]: Unit Euro and assuming that 1kg Material costs €30
