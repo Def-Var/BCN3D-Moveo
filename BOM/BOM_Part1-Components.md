@@ -30,11 +30,11 @@
 | 43 | Nema 17 Stepper Motor 42BYGHW609, (1.7A, 1.8°,  4000 g·cm)                                   | 2        | 14.99 | [Ebay](https://www.ebay.com/itm/381706411494)   |
 | 44 | Nema 14 Stepper Motor, B089Y48SWK, (1A, 1.8°,  2141 g·cm)                                    | 1        | 15.99 | [Amazon](https://www.amazon.de/Iverntech-Schrittmotor-2-Phasen-4-adrig-Integriertem-CNC-Maschine/dp/B089Y48SWK/ref=sr_1_1_sspa)   |
 
-## Totals 
-| Price[^2] |
-| --- |
-| 374.48  |
+H.S. – local hardware store
+
+[M.D.](https://www.dold-mechatronik.de/) – Mechatronic Dold is a local Store. It would make me glade if you purchase some of your items there.  :) 
 
 [^1]: Unit in € 
 [^2]: Currently only EU Supplier be free to make a custom Suplier list and make a pull request ;) 
+
 
