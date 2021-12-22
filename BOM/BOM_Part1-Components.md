@@ -1,7 +1,4 @@
 # Components
-
-first part of the BOM
-
 | BOM ID | Description                                                                              | Quantity | Price[^1]  | Supplier[^2] | 
 | ------ | --------------                                                                           | -------- | -------- | ---    |
 | 4  | Power Supply 24V 480W                                                                        | 1        | 32.99 | [Amazon](https://www.amazon.de/Schaltnetzteil-Netzteil-Transformator-Schaltwandler-Streifen/dp/B0896Z8Y3D/ref=sr_1_5) |
@@ -37,7 +34,6 @@ first part of the BOM
 | Price[^2] |
 | --- |
 | 374.48  |
-
 
 [^1]: Unit in € 
 [^2]: Currently only EU Supplier be free to make a custom Suplier list and make a pull request ;) 
