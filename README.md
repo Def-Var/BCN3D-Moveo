@@ -1,18 +1,18 @@
 # DefVar Moveo
-This project is forked from [BCN3d MOVEO](https://github.com/BCN3D/BCN3D-Moveo). I changed some parts for my purpases so that I can rebuilt this project six years after its creation.
+This project is forked from [BCN3d MOVEO](https://github.com/BCN3D/BCN3D-Moveo). I changed some parts for my purposes so that I can rebuild this project six years after its creation.
 Please check out my [blog](https://def-var.net) where I post weekly about this project.
 
 ## Changes
 
-Changed in Motortype results in new 3M2C and 3M2CC use the new Version instead
+Changed in Motor type results in new 3M2C and 3M2CC use the new Version instead
 
 ## 3D printing settings 
-layerheigt: 0.2 mm
+layer height: 0.2 mm
 Material: PLA 
 Infill: 15% 
 
-# Orginal Moveo README.md
-In the following there is the orginal text from the BCN3D MOVEO README.md
+# Original Moveo README.md
+In the following, there is the original text from the BCN3D MOVEO README.md
 
 ## BCN3D MOVEO
 
@@ -39,3 +39,4 @@ Furthermore, the Github users will find the STL files for the structure printing
 ### Acknowledgements
 
 This project is based on a project by [Andreas Hölldorfer](http://chaozlabs.blogspot.de/). You can see his original project on [Hackaday.io](https://hackaday.io/project/3800-3d-printable-robot-arm), [Github](https://github.com/4ndreas/BetaBots-Robot-Arm-Project/tree/master), [Youtube](https://www.youtube.com/channel/UCeFKz1UJUd5YuxS1ZikqYwA).
+
