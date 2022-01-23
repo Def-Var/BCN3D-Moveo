@@ -5,8 +5,12 @@
 | 022| 1 | Pulley T5, Bore 5mm, 10 tooth, 17 mm width |
 | 032 | 1 | Wood Base - 550mm x 550mm x 16mm |
 | 043 | 1 | Nema 17 Stepper Motor 42BYGHW609, (1.7A, 1.8°,  4000 g·cm)  |
+| 101 | 4 | Screw M3 x 8mm |
 | 115 | 8 | Screw M5 x 20mm |
+| 116 | 1 | Screw M8 x 65mm |
+| 120 | 10 | M4 Locknut|
 | 121 | 8 | M5 Locknut|
+| 125 | 4 | Screw M4 x 30mm |
 | 202 | 1 | 1M1 |
 | 203 |1 | 1M2 |
 | 204 |1 | 1M3 |
