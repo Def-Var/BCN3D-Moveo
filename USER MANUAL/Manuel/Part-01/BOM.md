@@ -19,5 +19,5 @@
 | 228| 4 | Base post |
 | 236| 1 | Sleeve M8 |
 | 236| 8 | Sleeve M5 |
-
+---
 [^1]: Is not in the orginal BOM but in the 3D-Model this screw is used to mount the base posts.
