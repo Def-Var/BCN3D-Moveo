@@ -25,3 +25,6 @@
 |124|Screw M3 x 8|4|
 |125|Screw M4 x 30|4|
 |127|Whaser M3|7|
+|128|Whaser M4|8|
+|129|Whaser M5|4|
+|130|Screw M5 x 30 |
