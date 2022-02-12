@@ -36,6 +36,6 @@ H.S. – local hardware store
 
 [^1]: Unit in € 
 [^2]: Currently only EU Supplier be free to make a custom Suplier list and make a pull request ;) 
-[^3]: 1x 70cm (Base / Module 1) 2x 44.8 cm (Module 2) 1x 40 cm (Module 3) 1x ?? cm (Module 4)
+[^3]: 1x 70cm (Base / Module 1) 2x 44.8 cm (Module 2) 1x 44.6 cm (Module 3) 1x ?? cm (Module 4)
 
 
