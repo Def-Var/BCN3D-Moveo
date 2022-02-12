@@ -17,7 +17,7 @@
 | 27 | Power supply cable IEC 1,8m                                                                  | 1        | 7.99  | [Amazon](https://www.amazon.de/Naths-Hardware-Kaltger%C3%A4tekabel-Kaltger%C3%A4testecker-Schutzkontakt/dp/B06XG6Z7NL/ref=sr_1_2_sspa)   | 
 | 29 | Cable Ties                                                                                   | 10       | 5.99  | [Amazon](https://www.amazon.de/Kabelbinder-Zugfestigkeit-Selbstsicherndes-Multifunktionale-Gartenarbeit/dp/B08PTT2C5M/ref=sxin_13_pa_sp_search_thematic_sspa)   | 
 | 32 | Wood Base - 550mm x 550mm x 16mm                                                             | 1        | -     | H.S.   | 
-| 33 | Breco belt T5, 16mm width, L 180cm                                                           | 1        | 13.80 | [M.D.](https://www.dold-mechatronik.de/PU-Zahnriemen-T5-Breite-16mm-Meterware-Laenge-2-Meter)   | 
+| 33[^3] | Breco belt T5, 16mm width, L **250cm**                                                   | 1        | 13.80 | [M.D.](https://www.dold-mechatronik.de/PU-Zahnriemen-T5-Breite-16mm-Meterware-Laenge-2-Meter)   | 
 | 34 | Pulley T5, Bore 10mm, 14 tooth, 17mm width                                                   | 2        | 3.27  | [Aliexpress](https://de.aliexpress.com/item/32963062106.html)   | 
 | 35 | Nema 23 stepper 3Nm 4,2A Ø 10 mm shaft                                                       | 2        | 25.21 | [Ebay](https://www.ebay.com/itm/392720416199)   |
 | 36 | Chrome steel smooth bar 140mm M8                                                             | 1        | 1.10  | [M.D.](https://www.dold-mechatronik.de/Blankstahl-rund-8mm-h6-Material-C45-10503-geschliffen-ZUSCHNITT-bis-1200mm-5-EUR-m-04-EUR-pro-Schnitt)   |
@@ -36,5 +36,6 @@ H.S. – local hardware store
 
 [^1]: Unit in € 
 [^2]: Currently only EU Supplier be free to make a custom Suplier list and make a pull request ;) 
+[^3]: 1x 70cm (Base / Module 1) 2x 44.8 cm (Module 2) 1x 40 cm (Module 3) 1x ?? cm (Module 4)
 
 
