@@ -12,6 +12,7 @@
 | 224 | 1 | Servo gear |
 | 218 | 1 | Bottom plate | 
 | 219 | 2 | Sleeve | 
+| 237 | 1 | Gripper Servo horn |
 
 
 [^1]: I modifight this version to fit wit the motor 
