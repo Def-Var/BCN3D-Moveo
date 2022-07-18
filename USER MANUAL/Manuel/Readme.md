@@ -13,4 +13,5 @@ I can't use the orginal electronics housing. The next few parts are for a custom
 housing and uses materials that aren't nessasally in the orignal BOM.
 
 - [DIY Moveo Part 12: electronics mount](https://def-var.net/project/diy-moveo-part-12-electronics-mount/)
+- [DIY Moveo Part 12.1: electronics mount installation](https://def-var.net/project/diy-moveo-part-12-1-electronics-mount-installation/)
 
