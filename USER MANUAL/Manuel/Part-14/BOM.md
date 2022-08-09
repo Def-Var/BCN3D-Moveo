@@ -5,11 +5,12 @@
 | -[^1]   | 6 | Screw M2.5x10 |
 | -[^1]   | 7 | Screw M4x10 |
 | 120   | 2 | Locknut M4 |
+| 120   | 2 | Locknut M3 |
 | -[^1]   | 2 | Countersunk screw M3x10 DIN 965 | 
 | -[^1]   | 2 | PSU Brackets (Print) | 
 | -[^1]   | 1 | PSU Case (Print) | 
-| -[^1]   | 1 | 1m AWG20 Cable RED | 
-| -[^1]   | 1 | 1m AWG20 Cable BLACK | 
+| -[^1]   | 1 | 1m AWG18 Cable RED | 
+| -[^1]   | 1 | 1m AWG18 Cable BLACK | 
 | -[^1]   | 20[^2] | end splices |
 
 
