@@ -28,3 +28,4 @@
 |128|Whaser M4|8|
 |129|Whaser M5|4|
 |130|Screw M5 x 30 |
+|1101 | M3 Locknut |4| 

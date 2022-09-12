@@ -33,6 +33,9 @@
 | 235    | Sleeve         | Sleeves   | Sleeve M8          | 2.00   | 2.54   | 6117.33   | 7.59   | 0.21 €  | 00:01:04 |
 | 236    |                | Sleeves   | Sleeve M5          | 8.00   |        |           |        |         |          |
 | 237    | Gripper        | Gripper-A | Gripper Servo horn | 1.00   |        |           |        |         |          |
+| 1200    | PSU Case |  PSU Case |  PSU Case | 1.00   |        |           |        |         |          |
+| 1201    | DIN RAIL PSU Bracket|  DIN RAIL PSU Bracket |  DIN RAIL PSU Bracket | 1.00   |        |           |        |         |          |
+
 
 ## Total 
 | Weight[^0] | Time[^1] | Price[^2] |

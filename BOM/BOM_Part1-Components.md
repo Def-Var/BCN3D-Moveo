@@ -29,6 +29,12 @@
 | 42 | Teensy 4.0                                                                                   | 1        | 24.45 | [Amazon](https://www.amazon.de/Teensy-DEV-13305-Development-Bootloader-Mikro-USB-Sketches/dp/B01BMRTZGE/ref=sr_1_1)   |
 | 43 | Nema 17 Stepper Motor 42BYGHW609, (1.7A, 1.8°,  4000 g·cm)                                   | 2        | 14.99 | [Ebay](https://www.ebay.com/itm/381706411494)   |
 | 44 | Nema 14 Stepper Motor, B089Y48SWK, (1A, 1.8°,  2141 g·cm)                                    | 1        | 15.99 | [Amazon](https://www.amazon.de/Iverntech-Schrittmotor-2-Phasen-4-adrig-Integriertem-CNC-Maschine/dp/B089Y48SWK/ref=sr_1_1_sspa)   |
+| 1000 | End Splices | ~100        | - |  |
+| 1001 | AWG20 Cable Red 2m   | 1    | - |  |
+| 1002 | AWG20 Cable Black 2m | 1    | - |  |
+| 1003 | Arduino Nano | 1 | - | |
+| 1004 | Arduino Nano Breakout Board | 1 | - |  |
+
 
 H.S. – local hardware store
 
