@@ -34,6 +34,8 @@
 | 1002 | AWG20 Cable Black 2m | 1    | - |  |
 | 1003 | Arduino Nano | 1 | - | |
 | 1004 | Arduino Nano Breakout Board | 1 | - |  |
+| 1005 | 10 meters 4 channel RGB Wire (awg21) | 1 | - |  |
+| 1006 | 10 meters 4 channel RGB Wire (awg18) | 1 | - |  |
 
 
 H.S. – local hardware store
